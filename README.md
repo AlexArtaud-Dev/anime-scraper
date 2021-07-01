@@ -1,5 +1,7 @@
-Node Anime Scraper
+Node Anime Scraper (Not my packages, ONLY FIXED VERSION)
 ===================
+Original Package : [anime-scraper](https://www.npmjs.com/package/anime-scraper)
+
 
 ***
 
