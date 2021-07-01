@@ -2,7 +2,7 @@ const cheerio = require('cheerio');
 const got = require('got');
 const debug = require('debug')('anime-scraper-html');
 
-const BASE_URL = 'https://www.gogoanime.pe/';
+const BASE_URL = 'https://www.gogoanime.pe';
 
 // Search Results
 function parseSearchResults($) {
