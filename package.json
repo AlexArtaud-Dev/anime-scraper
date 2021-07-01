@@ -1,6 +1,6 @@
 {
   "name": "@izoniks/anime-scraper-fixed",
-  "version": "3.1.3",
+  "version": "3.1.4",
   "description": "Scrapes information from Gogo Anime to get Anime, Episode & Video information & urls. FIXED CLOUDFLARE ERROR (Not Official Version)",
   "main": "src/index.js",
   "scripts": {
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://https://github.com/AlexArtaud-Dev/anime-scraper.git"
+    "url": "git://https://github.com/AlexArtaud-Dev/anime-scraper"
   },
   "keywords": [
     "anime",
